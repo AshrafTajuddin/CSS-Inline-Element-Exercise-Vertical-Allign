@@ -1,6 +1,6 @@
 # Display it inline
 
-## Instructions:
+## Data Structure
 
 - Format all dates - superscript every ordinal number ending e.g. th, st etc.
 - All dates in the the paragraph with class note should be bold.
@@ -8,3 +8,21 @@
 - Cite the source in the footer.
 - Bonus:
 - Add another inline element to the document of your choice.
+
+### Expected output
+
+![Imgur](https://i.imgur.com/kQaGAGw.png)
+
+### Method
+
+```html
+<!-- in HTML  using <span>st</span> to create superscript without using HTML <sup> Tag
+```
+
+```css
+/* using vertical-allign property and style the <p> & <span> classes.
+```
+
+#### Result
+
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/CSS-Inline-Element-Exercise-Vertical-Allign/)
