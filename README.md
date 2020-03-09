@@ -19,10 +19,15 @@
 <!-- in HTML  using <span>st</span> to create superscript without using HTML <sup> Tag
 ```
 
+- [Click here to see HTML Code](index.html)
+
 ```css
 /* using vertical-allign property and style the <p> & <span> classes.
 ```
 
+- [Click here to see CSS Code](css/style.css)
+
 #### Result
 
 [Feel free to click here for the deployment!](https://ashraftajuddin.github.io/CSS-Inline-Element-Exercise-Vertical-Allign/)
+
